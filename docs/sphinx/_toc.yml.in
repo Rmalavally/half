@@ -5,6 +5,9 @@ defaults:
   maxdepth: 6
 root: index
 subtrees:
+  - caption: API Reference
+    entries:
+      - file: doxygen/html/index
   - caption: About
     entries:
       - file: license
