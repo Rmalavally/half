@@ -2,8 +2,8 @@
 
 
 
-Convert and Round Half
--------------------------
+Converting and rounding Half
+-----------------------------
 
 Half is explicitly constructible/convertible from a single-precision float argument. Thus it is also explicitly constructible/convertible from any type implicitly convertible to float, but constructing it from types like double or 
 int will involve the usual warnings arising when implicitly converting those to float because of the lost precision. On the one hand those warnings are intentional, because converting those types to half neccessarily also reduces 
