@@ -1,4 +1,6 @@
-
+.. meta::
+  :description: Half documentation 
+  :keywords: Half, APIs, ROCm, documentation
 
 Implement Half
 ------------------
