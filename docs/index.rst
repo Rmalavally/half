@@ -6,7 +6,7 @@
 Half documentation
 *************************
 
-HALF-Precision Floating Point library (Version 1.12.0)
+Half-Precision Floating Point library (Version 1.12.0)
 ------------------------------------------------------
 
 Half is a C++ header-only library to provide an IEEE 754 conformant 16-bit half-precision floating point type along with corresponding arithmetic operators, type conversions and common mathematical functions. It aims for both efficiency and ease of use, trying to accurately mimic the behaviour of the builtin floating point types at the best performance possible.
