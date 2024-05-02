@@ -36,9 +36,8 @@ Half is a C++ header-only library to provide an IEEE 754 conformant 16-bit half-
 
   .. grid-item-card:: Tutorials
 
-     * :doc:`half <./tutorials/half>`
-     * :doc:`test03 <./tutorials/test03>`
-     * :doc:`test11 <./tutorials/test11>`
+     * :URL: https://github.com/ROCm/half/tree/rocm
+ 
 
 
 To contribute to the documentation, refer to
