@@ -1,3 +1,7 @@
+.. meta::
+  :description: Half documentation 
+  :keywords: Half, APIs, ROCm, documentation
+
 
 Understanding Half library
 ----------------------------
