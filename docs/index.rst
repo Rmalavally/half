@@ -28,7 +28,7 @@ Half is a C++ header-only library to provide an IEEE 754 conformant 16-bit half-
 
   .. grid-item-card:: API reference
 
-       * :doc:`Half API <reference/half-api.rst>`  
+       * :doc:`Half API <reference/half-api>`  
 
   .. grid-item-card:: Conceptual
 
