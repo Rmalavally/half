@@ -1,5 +1,6 @@
-
-
+.. meta::
+  :description: Half documentation 
+  :keywords: Half, APIs, ROCm, documentation
 
 
 Converting and rounding Half
