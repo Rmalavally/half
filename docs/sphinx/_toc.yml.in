@@ -17,6 +17,11 @@ subtrees:
    - file: how-to/convert-round.rst
      title: Convert and Round Half
 
+- caption: API Reference
+  entries:
+   - file: https://half.sourceforge.net/index.html
+     title: Link for Half API documentation
+ 
 - caption: Conceptual
   entries:
   - file: conceptual/understand-half.rst
