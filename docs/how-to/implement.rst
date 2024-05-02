@@ -1,6 +1,6 @@
 
 
-Implementing Half
+Implement Half
 ------------------
 
 For performance reasons (and ease of implementation) many of the mathematical functions provided by the library as well as all arithmetic operations are actually carried out in single-precision under the hood, calling to the C++ standard library implementations of those functions whenever appropriate, meaning the arguments are converted to floats and the result back to half. But to reduce the conversion overhead as much as possible any temporary values inside of lengthy expressions are kept in single-precision as long as possible, while still maintaining a strong half-precision type to the outside world. Only when finally assigning the value to a half or calling a function that works directly on halfs is the actual conversion done (or never, when further converting the result to float.
