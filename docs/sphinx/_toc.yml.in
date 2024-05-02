@@ -27,6 +27,11 @@ subtrees:
   - file: conceptual/understand-half.rst
     title: Understand Half
 
+- caption: Tutorials
+  entries:
+  - url: https://github.com/ROCm/half/tree/rocm
+    title: GitHub samples
+
 
 - caption: About
   entries:
