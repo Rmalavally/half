@@ -23,7 +23,7 @@ Half is a C++ header-only library to provide an IEEE 754 conformant 16-bit half-
   .. grid-item-card:: How to
 
        * :doc:`Use Half <how-to/use-half>`
-       * :doc:`Implement Half <how-to/implement-half>`
+       * :doc:`Implement Half <how-to/implement>`
        * :doc:`Convert and Round Half <how-to/convert-round>`
 
   .. grid-item-card:: API reference
