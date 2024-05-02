@@ -19,8 +19,8 @@ subtrees:
 
 - caption: API Reference
   entries:
-   - URL: https://half.sourceforge.net/index.html
-     title: Half API documentation
+   - file: `Half API documentation <https://half.sourceforge.net/index.html>`_
+     
  
 - caption: Conceptual
   entries:
